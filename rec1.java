@@ -1,9 +1,6 @@
 public class Ex14
 {
    /**
-   * name: omer golan 
-   *id: 043155142
-   *maman 14
    *Class constructor.
    */
     
